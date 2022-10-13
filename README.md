@@ -1,6 +1,6 @@
 [![MasterHead](https://websitejo.com/ochoosta/2019/09/news-develop.gif)]
 <h1 align="center">Hi 👋, I'm Mohamed Magdy Abouelnasr</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate MEAN stack developer from Egypt</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magdyabouelnasr&label=Profile%20views&color=0e75b6&style=flat" alt="magdyabouelnasr" /> </p>
